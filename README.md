@@ -2,7 +2,6 @@
 
 **InsightBot** is a news/article aggregation, processing, and exploration platform. It allows you to fetch, clean, analyze, and visualize articles from a wide range of sources, and provides a Windows XP–inspired web interface for browsing and searching articles.
 
-GitHub Repository: https://github.com/daniyalquest/InsightBot.git
 Blog: https://insightbot-techwiz.blogspot.com/2025/09/insightbot-making-daily-news-simple.html
 
 ---
